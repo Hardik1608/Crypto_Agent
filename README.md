@@ -18,8 +18,8 @@ This project is a Python-based agent that provides cryptocurrency prices using r
 
 2. **Clone the Repository:**
    ```python
-   git clone https://github.com/Hardik1608/Crypto_Query.git
-   cd Crypto_Query
+   git clone https://github.com/Hardik1608/Crypto_Agent.git
+   cd Crypto_Agent
    ``` 
 3. **Install Required Packages:** The following packages are required:
 * `requests`: for making HTTP requests to the API.
