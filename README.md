@@ -38,7 +38,7 @@ Install these packages using:
 
 5. **Run the Program:** After setting up, you can start the agent by running:
     ```python
-    python Crypto_Query/main.py
+    python Crypto_Agent/main.py
     ```
 ---
 
